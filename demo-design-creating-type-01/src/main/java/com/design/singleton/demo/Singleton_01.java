@@ -1,17 +1,26 @@
 package com.design.singleton.demo;
 
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-
 /**
- * 静态类使用
+ * 懒汉模式（线程不安全）
  * @author qinhuajiao
- * @date 2021年02月23日 09:18:02
- * 1.这种方式在我们平常的业务开发中非常常见，这样静态类的方式可以在第一层运行的时候直接
- *   初始化Map类，同时这里我们也不需要到延迟加载时使用。
- * 2.在不需要维持任何状态下，仅仅用于全局访问，这个使用静态类的方式更加方便。
- * 3.但如果需要被继承以及需要维持一些特定状态的情况下，就适合使用单例模式。
+ * @date 2021年02月23日 09:28:30
+ * 1.单例模式有一个特点就是不允许外部直接创建，也就是new Singleton_02()，因此这里在默认
+ *   的构造函数上添加了私有属性private。
+ * 2.目前此种方式的单例确实满足了懒加载，但是如果有多个访问者同时去获取对象实例你可以想象成
+ *   一堆人在抢厕所，就会造成多个同样的实例并存，并没有达到单例的要求。
  */
 public class Singleton_01 {
-    public static Map<String, String> map = new ConcurrentHashMap<String, String>();
+
+    private static Singleton_01 instance;
+
+    public Singleton_01() {
+
+    }
+
+    public static Singleton_01 getInstance() {
+        if (null == instance) {
+            instance = new Singleton_01();
+        }
+        return instance;
+    }
 }

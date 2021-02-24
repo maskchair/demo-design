@@ -1,23 +1,24 @@
 package com.design.singleton.demo;
 
 /**
- * 使用类的内部类（线程安全）
+ * 双重锁校验（线程安全）
  * @author qinhuajiao
- * @date 2021年02月23日 09:57:38
- * 1.使用类的静态内部类实现的单例模式，既保证了线程安全又保证了懒加载，同时不会因为加锁的方式耗费性能。
- * 2.这主要是因为JVM虚拟机可以保证多线程并发访问的正确性，也就是一个类的构造方法在多线程环境下可以被正确的加载。
- * 3.此种方式也是非常推荐使用的一种单例模式。
+ * @date 2021年02月23日 10:07:41
+ * 1.双重锁的方法是方法级的优化，减少了部分获取实例的耗时。
+ * 2.同时这种方式也满足了懒加载。
  */
 public class Singleton_05 {
 
-    private static class SingletonHolder{
-        private static Singleton_05 instance = new Singleton_05();
-    }
+    private static Singleton_05 instance;
 
     private Singleton_05() {}
 
     public static Singleton_05 getInstance() {
-        return SingletonHolder.instance;
+        synchronized (Singleton_05.class) {
+            if(null == instance) {
+                instance = new Singleton_05();
+            }
+        }
+        return instance;
     }
-
 }

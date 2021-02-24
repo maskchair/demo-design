@@ -6,6 +6,7 @@ package com.design.singleton.demo;
  * @date 2021年02月23日 11:15:23
  */
 public class User {
+
     /**
      * 私有化构造函数
      */
