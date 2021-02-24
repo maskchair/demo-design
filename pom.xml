@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>demo-design-creating-type-01</module>
+        <module>demo-design-creating-type-02-00</module>
+        <module>demo-design-creating-type-02-01</module>
+        <module>demo-design-creating-type-02-02</module>
     </modules>
 
     <dependencies>
