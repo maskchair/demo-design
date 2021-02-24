@@ -1,6 +1,6 @@
 package com.design.singleton.demo.test;
 
-import com.design.singleton.demo.Singleton_08;
+import com.design.singleton.demo.Singleton_07;
 import org.junit.Test;
 
 /**
@@ -11,6 +11,6 @@ public class SingletonTest {
 
     @Test
     public void test() {
-        System.out.println(Singleton_08.INSTANCE.getInstance());
+        System.out.println(Singleton_07.INSTANCE.getInstance());
     }
 }
