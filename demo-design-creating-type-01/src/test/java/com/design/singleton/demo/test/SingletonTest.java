@@ -11,6 +11,6 @@ public class SingletonTest {
 
     @Test
     public void test() {
-        System.out.println(Singleton_07.INSTANCE.getInstance());
+        Singleton_07.INSTANCE.test();
     }
 }

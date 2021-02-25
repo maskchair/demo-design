@@ -12,8 +12,8 @@ public enum Singleton_07 {
 
     INSTANCE;
 
-    public Singleton_07 getInstance() {
-        return INSTANCE;
+    public void test(){
+        System.out.println("hi~");
     }
 
 }
