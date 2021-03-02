@@ -19,3 +19,9 @@ demo-design-creating-type-04-00 建造者模式
 demo-design-creating-type-04-01 建造者模式
 
 demo-design-creating-type-04-02 建造者模式
+
+demo-design-creating-type-05-01 原型模式
+
+demo-design-creating-type-05-01 原型模式
+
+demo-design-creating-type-05-02 原型模式
