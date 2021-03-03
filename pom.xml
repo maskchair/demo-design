@@ -23,6 +23,9 @@
         <module>demo-design-creating-type-05-00</module>
         <module>demo-design-creating-type-05-01</module>
         <module>demo-design-creating-type-05-02</module>
+        <module>demo-design-structure-type-01-00</module>
+        <module>demo-design-structure-type-01-01</module>
+        <module>demo-design-structure-type-01-02</module>
     </modules>
 
     <dependencies>
