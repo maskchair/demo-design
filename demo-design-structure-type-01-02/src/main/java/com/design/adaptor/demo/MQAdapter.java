@@ -9,7 +9,7 @@ import java.util.Map;
  * @author qinhuajiao
  * @date 2021年03月03日 10:30:23
  */
-public class MQAdaptor {
+public class MQAdapter {
 
     public static RebateInfo filter(String strJson, Map<String, String> link) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException {
         return filter(JSON.parseObject(strJson, Map.class), link);
