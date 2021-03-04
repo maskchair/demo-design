@@ -24,6 +24,6 @@ public class ApiTest {
 
         System.out.println("\r\n模拟测试场景，支付宝支付、人脸方式。");
         ZfbPay zfbPay = new ZfbPay(new PayFaceMode());
-        wxPaypay.transfer("gfh32d3fg5gs13","3213125454677912", new BigDecimal(50));
+        zfbPay.transfer("gfh32d3fg5gs13","3213125454677912", new BigDecimal(50));
     }
 }
