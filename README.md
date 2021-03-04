@@ -26,8 +26,12 @@ demo-design-creating-type-05-01 原型模式
 
 demo-design-creating-type-05-02 原型模式
 
-demo-design-creating-type-06-00 适配器模式
+demo-design-structure-type-01-00 适配器模式
 
-demo-design-creating-type-06-01 适配器模式
+demo-design-structure-type-01-01 适配器模式
 
-demo-design-creating-type-06-02 适配器模式
+demo-design-structure-type-01-02 适配器模式
+
+demo-design-structure-type-02-01 桥接模式
+
+demo-design-structure-type-02-02 桥接模式
