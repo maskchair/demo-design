@@ -35,3 +35,7 @@ demo-design-structure-type-01-02 适配器模式
 demo-design-structure-type-02-01 桥接模式
 
 demo-design-structure-type-02-02 桥接模式
+
+demo-design-structure-type-03-01 组合模式
+
+demo-design-structure-type-03-02 组合模式
