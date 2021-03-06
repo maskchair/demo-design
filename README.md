@@ -39,3 +39,9 @@ demo-design-structure-type-02-02 桥接模式
 demo-design-structure-type-03-01 组合模式
 
 demo-design-structure-type-03-02 组合模式
+
+demo-design-structure-type-04-00 装饰器模式
+
+demo-design-structure-type-04-01 装饰器模式
+
+demo-design-structure-type-04-02 装饰器模式
