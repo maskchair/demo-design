@@ -2,7 +2,7 @@ package com.design.singleton.demo;
 
 /**
  * 饿汉模式（线程安全）
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 09:50:43
  * 1.此种方式与我们开头的第一个实例化Map基本一致，在程序启动的时候直接运行加载，后续有外部需要使用的
  *   时候获取即可。

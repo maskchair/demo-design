@@ -2,7 +2,7 @@ package com.design.singleton.demo;
 
 /**
  * 针对枚举单例进一步说明
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 11:15:23
  */
 public class User {

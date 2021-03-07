@@ -4,7 +4,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 /**
  * CAS[AtomicReference](线程安全)
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 10:16:00
  * 1.java并发库提供了很多原子类来支持并发访问的数据安全性：AtomicInteger、AtomicBoolean、AtomicLong、AtomicReference。
  * 2.AtomicReference可以封装引用一个V实例，支持并发访问如上的单例方式就是使用了这样的一个特点。

@@ -2,7 +2,7 @@ package com.design.singleton.demo;
 
 /**
  * 懒汉模式（线程不安全）
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 09:28:30
  * 1.单例模式有一个特点就是不允许外部直接创建，也就是new Singleton_02()，因此这里在默认
  *   的构造函数上添加了私有属性private。
