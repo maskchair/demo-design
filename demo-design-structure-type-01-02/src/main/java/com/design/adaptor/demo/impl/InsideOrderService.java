@@ -4,7 +4,7 @@ import com.design.adaptor.demo.OrderAdapterService;
 import com.design.adaptor.demo.service.OrderService;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 10:50:54
  */
 public class InsideOrderService implements OrderAdapterService {

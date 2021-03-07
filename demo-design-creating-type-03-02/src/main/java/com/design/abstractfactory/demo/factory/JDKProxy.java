@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 15:29:43
  */
 public class JDKProxy {

@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月07日 08:46:17
  */
 @SpringBootApplication

@@ -6,7 +6,7 @@ import com.design.combination.demo.model.vo.EngineResult;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:48:09
  */
 public interface IEngine {

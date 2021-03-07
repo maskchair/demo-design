@@ -1,7 +1,7 @@
 package com.design.builder.demo;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 16:17:12
  */
 public interface IMenu {

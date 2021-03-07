@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月06日 21:27:18
  */
 public class LoginSsoDecorator extends SsoInterceptor {

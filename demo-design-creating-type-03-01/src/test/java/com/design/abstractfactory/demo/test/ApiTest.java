@@ -5,7 +5,7 @@ import com.design.abstractfactory.demo.cuisine.impl.CasheServiceImpl;
 import org.junit.Test;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 11:37:24
  */
 public class ApiTest {

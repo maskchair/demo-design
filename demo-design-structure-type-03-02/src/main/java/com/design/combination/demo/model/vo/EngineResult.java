@@ -2,7 +2,7 @@ package com.design.combination.demo.model.vo;
 
 /**
  * 决策结果
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:12:34
  */
 public class EngineResult {

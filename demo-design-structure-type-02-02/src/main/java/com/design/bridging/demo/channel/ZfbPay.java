@@ -5,7 +5,7 @@ import com.design.bridging.demo.mode.IPayMode;
 import java.math.BigDecimal;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月04日 08:50:36
  */
 public class ZfbPay extends Pay {

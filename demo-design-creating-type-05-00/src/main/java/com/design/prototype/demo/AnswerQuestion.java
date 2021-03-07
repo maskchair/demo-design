@@ -2,7 +2,7 @@ package com.design.prototype.demo;
 
 /**
  * 解答题
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月02日 18:55:31
  */
 public class AnswerQuestion {

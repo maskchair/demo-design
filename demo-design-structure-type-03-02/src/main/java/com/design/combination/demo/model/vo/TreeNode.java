@@ -3,7 +3,7 @@ package com.design.combination.demo.model.vo;
 import java.util.List;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:27:16
  */
 public class TreeNode {

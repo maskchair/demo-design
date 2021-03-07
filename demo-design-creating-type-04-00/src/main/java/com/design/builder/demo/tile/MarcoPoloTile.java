@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 地砖
  * 品牌；马可波罗(MARCO POLO)
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 15:21:41
  */
 public class MarcoPoloTile implements Matter {

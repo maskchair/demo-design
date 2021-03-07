@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月07日 09:57:13
  */
 @Configuration

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:51:59
  */
 public abstract class BaseLogic implements LogicFilter {

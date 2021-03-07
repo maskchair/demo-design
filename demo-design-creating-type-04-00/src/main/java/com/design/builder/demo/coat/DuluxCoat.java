@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 涂料
  * 品牌；多乐士(Dulux)
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 14:34:48
  */
 public class DuluxCoat implements Matter {

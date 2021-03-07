@@ -8,7 +8,7 @@ import com.design.abstractfactory.demo.impl.CacheServiceImpl;
 import org.junit.Test;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 15:50:01
  */
 public class ApiTest {

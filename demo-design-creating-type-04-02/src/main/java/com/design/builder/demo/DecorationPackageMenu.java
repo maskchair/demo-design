@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * 装修包
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 16:24:51
  */
 public class DecorationPackageMenu implements IMenu {

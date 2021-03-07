@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 10:30:23
  */
 public class MQAdapter {

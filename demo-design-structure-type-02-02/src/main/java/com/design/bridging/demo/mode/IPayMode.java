@@ -1,7 +1,7 @@
 package com.design.bridging.demo.mode;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月04日 08:42:26
  */
 public interface IPayMode {

@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 地板
  * 品牌：圣象
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 15:18:24
  */
 public class ShengXiangFloor implements Matter {

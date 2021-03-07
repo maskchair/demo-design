@@ -1,7 +1,7 @@
 package com.design.combination.demo.model.vo;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:28:01
  */
 public class TreeRoot {

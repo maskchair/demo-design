@@ -6,7 +6,7 @@ import com.design.abstractfactory.demo.matter.IIR;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 15:46:17
  */
 public class IIRCacheAdapter implements ICacheAdapter {

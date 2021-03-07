@@ -4,7 +4,7 @@ import com.design.decorator.demo.LoginSsoDecorator;
 import org.junit.Test;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月06日 21:43:59
  */
 public class ApiTest {

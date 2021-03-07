@@ -8,7 +8,7 @@ import java.math.BigDecimal;
  * 吊顶
  * 品牌；装修公司自带
  * 型号：一级顶
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 14:27:25
  */
 public class LevelOneCeiling implements Matter {

@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 地板
  * 品牌；德尔(Der)
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 15:15:58
  */
 public class DerFloor implements Matter {

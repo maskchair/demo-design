@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 涂料
  * 品牌；立邦
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 15:11:09
  */
 public class LiBangCoat implements Matter {

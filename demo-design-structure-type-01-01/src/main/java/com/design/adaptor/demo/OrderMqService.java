@@ -5,7 +5,7 @@ import com.alibaba.fastjson.parser.Feature;
 import com.design.adaptor.demo.mq.OrderMq;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 10:14:37
  */
 public class OrderMqService {

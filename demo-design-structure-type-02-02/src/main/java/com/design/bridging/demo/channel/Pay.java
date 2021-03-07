@@ -7,7 +7,7 @@ import org.slf4j.LoggerFactory;
 import java.math.BigDecimal;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月04日 08:50:11
  */
 public abstract class Pay {

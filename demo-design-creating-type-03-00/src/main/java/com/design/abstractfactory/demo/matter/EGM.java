@@ -8,7 +8,7 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 10:45:02
  */
 public class EGM {

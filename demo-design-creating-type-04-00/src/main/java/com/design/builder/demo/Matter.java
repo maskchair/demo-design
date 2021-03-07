@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 /**
  * 装修物料
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 14:10:53
  */
 public interface Matter {

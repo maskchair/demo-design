@@ -5,7 +5,7 @@ import com.design.combination.demo.service.logic.BaseLogic;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:52:41
  */
 public class UserGenderFilter extends BaseLogic {

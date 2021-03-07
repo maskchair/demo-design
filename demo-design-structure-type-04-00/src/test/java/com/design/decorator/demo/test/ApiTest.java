@@ -4,7 +4,7 @@ import com.design.decorator.demo.SsoInterceptor;
 import org.junit.Test;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月06日 21:18:49
  */
 public class ApiTest {

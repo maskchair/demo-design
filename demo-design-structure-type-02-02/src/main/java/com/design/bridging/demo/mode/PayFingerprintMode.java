@@ -4,7 +4,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月04日 08:46:01
  */
 public class PayFingerprintMode implements IPayMode {

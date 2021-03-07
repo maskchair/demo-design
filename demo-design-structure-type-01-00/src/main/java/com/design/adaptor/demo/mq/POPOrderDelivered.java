@@ -6,7 +6,7 @@ import java.math.BigDecimal;
 import java.util.Date;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 09:43:03
  */
 public class POPOrderDelivered {

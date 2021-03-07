@@ -1,7 +1,7 @@
 package com.design.exterior.demo.domain;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月07日 08:49:21
  */
 public class UserInfo extends BaseInfo {

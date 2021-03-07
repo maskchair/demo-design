@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.design.adaptor.demo.mq.CreateAccount;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 10:10:36
  */
 public class CreateAccountMqService {

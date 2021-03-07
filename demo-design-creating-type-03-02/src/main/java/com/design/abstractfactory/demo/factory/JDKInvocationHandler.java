@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 15:35:28
  */
 public class JDKInvocationHandler implements InvocationHandler {

@@ -6,7 +6,7 @@ import com.design.abstractfactory.demo.matter.EGM;
 import java.util.concurrent.TimeUnit;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月25日 15:43:05
  */
 public class EGMCacheAdapter implements ICacheAdapter {

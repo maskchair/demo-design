@@ -3,7 +3,7 @@ package com.design.prototype.demo.util;
 import java.util.*;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月02日 19:59:31
  */
 public class TopicRandomUtil {

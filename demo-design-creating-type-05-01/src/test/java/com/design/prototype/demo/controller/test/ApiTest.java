@@ -4,7 +4,7 @@ import com.design.prototype.demo.controller.QuestionBankController;
 import org.junit.Test;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月02日 19:38:14
  */
 public class ApiTest {

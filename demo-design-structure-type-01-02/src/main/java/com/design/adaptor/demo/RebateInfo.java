@@ -3,7 +3,7 @@ package com.design.adaptor.demo;
 import java.util.Date;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 10:26:49
  */
 public class RebateInfo {

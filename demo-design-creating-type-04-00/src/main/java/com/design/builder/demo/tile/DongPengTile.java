@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 /**
  * 地砖
  * 品牌：东鹏瓷砖
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月26日 15:20:57
  */
 public class DongPengTile implements Matter {

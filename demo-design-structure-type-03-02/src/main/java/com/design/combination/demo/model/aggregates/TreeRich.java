@@ -7,7 +7,7 @@ import java.util.Map;
 
 /**
  * 规则树聚合
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月05日 10:07:58
  */
 public class TreeRich {

@@ -5,7 +5,7 @@ import com.alibaba.fastjson.JSON;
 import java.util.Date;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年03月03日 09:42:40
  */
 public class OrderMq {
