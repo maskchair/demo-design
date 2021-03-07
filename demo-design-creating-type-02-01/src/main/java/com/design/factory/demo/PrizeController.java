@@ -10,7 +10,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 15:54:10
  */
 public class PrizeController {

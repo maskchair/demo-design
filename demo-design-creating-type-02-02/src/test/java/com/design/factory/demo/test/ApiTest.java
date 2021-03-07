@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月24日 13:17:33
  * 1.从上面的工程结构中可以看出，结构清晰，分层易扩展
  * 2.所有的奖品无论是实物、虚拟还是第三方，都需要通过我们的程序实现此接口进行处理，以保证最

@@ -2,7 +2,7 @@ package com.design.factory.demo.coupon;
 
 /**
  * 模拟优惠券服务类
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 14:37:00
  */
 public class CouponService {

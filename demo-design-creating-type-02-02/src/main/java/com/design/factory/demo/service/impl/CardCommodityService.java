@@ -9,7 +9,7 @@ import org.slf4j.LoggerFactory;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月24日 10:38:56
  */
 public class CardCommodityService implements ICommodity {

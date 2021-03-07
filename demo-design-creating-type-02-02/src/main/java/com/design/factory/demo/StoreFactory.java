@@ -7,7 +7,7 @@ import com.design.factory.demo.service.impl.GoodsCommodityService;
 
 /**
  * 工厂模式
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月24日 10:30:07
  */
 public class StoreFactory {

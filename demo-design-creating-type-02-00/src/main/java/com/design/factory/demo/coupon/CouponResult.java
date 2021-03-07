@@ -1,7 +1,7 @@
 package com.design.factory.demo.coupon;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 14:33:01
  */
 public class CouponResult {

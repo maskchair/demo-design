@@ -3,7 +3,7 @@ package com.design.factory.demo.service;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月24日 10:31:40
  */
 public interface ICommodity {

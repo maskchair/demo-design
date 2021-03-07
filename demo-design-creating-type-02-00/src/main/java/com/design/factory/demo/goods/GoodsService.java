@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 
 /**
  *
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 14:42:23
  */
 public class GoodsService {

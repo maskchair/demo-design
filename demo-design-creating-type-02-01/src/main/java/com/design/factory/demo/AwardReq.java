@@ -3,7 +3,7 @@ package com.design.factory.demo;
 import java.util.Map;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 15:53:05
  */
 public class AwardReq {

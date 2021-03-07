@@ -1,7 +1,7 @@
 package com.design.factory.demo.goods;
 
 /**
- * @author qinhuajiao
+ * @author Jack House
  * @date 2021年02月23日 14:44:28
  */
 public class DeliverReq {
