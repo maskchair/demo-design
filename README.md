@@ -45,3 +45,9 @@ demo-design-structure-type-04-00 装饰器模式
 demo-design-structure-type-04-01 装饰器模式
 
 demo-design-structure-type-04-02 装饰器模式
+
+demo-design-structure-type-05-00 外观模式
+
+demo-design-structure-type-05-01 外观模式
+
+demo-design-structure-type-05-02 外观模式
