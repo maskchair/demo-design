@@ -55,3 +55,5 @@ demo-design-structure-type-05-02 外观模式
 demo-design-structure-type-06-01 享元模式
 
 demo-design-structure-type-06-02 享元模式
+
+demo-design-structure-type-07-01 代理模式
