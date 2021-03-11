@@ -63,3 +63,9 @@ demo-design-behavior-type-01-00 责任链模式
 demo-design-behavior-type-01-01 责任链模式
 
 demo-design-behavior-type-01-02 责任链模式
+
+demo-design-behavior-type-02-00 命令模式
+
+demo-design-behavior-type-02-01 命令模式
+
+demo-design-behavior-type-02-02 命令模式
