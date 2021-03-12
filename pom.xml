@@ -45,6 +45,7 @@
         <module>demo-design-behavior-type-02-01</module>
         <module>demo-design-behavior-type-02-02</module>
         <module>demo-design-behavior-type-02-00</module>
+        <module>demo-design-behavior-type-03-01</module>
     </modules>
 
     <dependencies>
