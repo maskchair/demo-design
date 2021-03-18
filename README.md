@@ -71,3 +71,7 @@ demo-design-behavior-type-02-01 命令模式
 demo-design-behavior-type-02-02 命令模式
 
 demo-design-behavior-type-03-01 迭代器模式
+
+demo-design-behavior-type-04-01 中介者模式
+
+demo-design-behavior-type-04-02 中介者模式
