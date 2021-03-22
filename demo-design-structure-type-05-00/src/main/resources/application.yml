@@ -6,7 +6,7 @@ spring:
     name: demo-design-structure-type-springboot-helloworld-door
 
 #自定义中间件配置
-itstack:
+com:
   door:
     enabled: true
-    userStr: 0001,bbb,dddd #白名单用户ID，多个逗号隔开
+    userStr: 1111,bbb,dddd #白名单用户ID，多个逗号隔开

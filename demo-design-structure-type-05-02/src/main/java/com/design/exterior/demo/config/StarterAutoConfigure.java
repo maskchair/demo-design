@@ -3,6 +3,7 @@ package com.design.exterior.demo.config;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
+import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
@@ -21,8 +22,8 @@ public class StarterAutoConfigure {
     private StarterServiceProperties properties;
 
     @Bean
-    @ConditionalOnBean
-    @ConditionalOnProperty(prefix = "door",value = "enabled", havingValue = "true")
+    @ConditionalOnMissingBean
+    @ConditionalOnProperty(prefix = "com.door",value = "enabled", havingValue = "true")
     StarterService starterService() {
         return new StarterService(properties.getUserStr());
     }

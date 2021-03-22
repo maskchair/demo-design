@@ -6,7 +6,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
  * @author Jack House
  * @date 2021年03月07日 09:57:46
  */
-@ConfigurationProperties("door")
+@ConfigurationProperties("com.door")
 public class StarterServiceProperties {
 
     private String userStr;
