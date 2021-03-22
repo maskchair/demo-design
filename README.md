@@ -77,3 +77,9 @@ demo-design-behavior-type-04-01 中介者模式
 demo-design-behavior-type-04-02 中介者模式
 
 demo-design-behavior-type-05-01 备忘录模式
+
+demo-design-behavior-type-06-00 观察者模式
+
+demo-design-behavior-type-06-01 观察者模式
+ 
+demo-design-behavior-type-06-02 观察者模式
