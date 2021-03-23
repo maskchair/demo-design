@@ -83,3 +83,9 @@ demo-design-behavior-type-06-00 观察者模式
 demo-design-behavior-type-06-01 观察者模式
  
 demo-design-behavior-type-06-02 观察者模式
+
+demo-design-behavior-type-07-00 状态模式
+
+demo-design-behavior-type-07-01 状态模式
+ 
+demo-design-behavior-type-07-02 状态模式
