@@ -52,6 +52,9 @@
         <module>demo-design-behavior-type-06-00</module>
         <module>demo-design-behavior-type-06-01</module>
         <module>demo-design-behavior-type-06-02</module>
+        <module>demo-design-behavior-type-07-00</module>
+        <module>demo-design-behavior-type-07-01</module>
+        <module>demo-design-behavior-type-07-02</module>
     </modules>
 
     <dependencies>
