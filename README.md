@@ -93,3 +93,5 @@ demo-design-behavior-type-07-02 状态模式
 demo-design-behavior-type-08-01 策略模式
  
 demo-design-behavior-type-08-02 策略模式
+
+demo-design-behavior-type-09-01 模板模式
