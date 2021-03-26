@@ -97,3 +97,5 @@ demo-design-behavior-type-08-02 策略模式
 demo-design-behavior-type-09-01 模板模式
 
 demo-design-behavior-type-10-01 访问者模式
+
+demo-design-behavior-type-10-01 访问者模式
