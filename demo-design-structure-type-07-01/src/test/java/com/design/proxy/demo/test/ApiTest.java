@@ -1,5 +1,6 @@
 package com.design.proxy.demo.test;
 
+import com.alibaba.fastjson.JSON;
 import com.design.proxy.demo.IUserDao;
 import org.junit.Test;
 import org.slf4j.Logger;
@@ -19,8 +20,8 @@ public class ApiTest {
     public void test_IUserDao() {
         BeanFactory beanFactory = new ClassPathXmlApplicationContext("spring-config.xml");
         IUserDao userDao = beanFactory.getBean("userDao", IUserDao.class);
-        String res = userDao.queryUserInfo("0001");
-        logger.info("测试结果：{}" + res);
+        String res = userDao.queryUserInfo("100001");
+        logger.info("测试结果：{}", res);
 
     }
 
