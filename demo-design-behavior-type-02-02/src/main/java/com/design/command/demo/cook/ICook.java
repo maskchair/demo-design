@@ -7,7 +7,7 @@ package com.design.command.demo.cook;
 public interface ICook {
 
     /**
-     * 菜单
+     * 烹饪
      */
     void doCooking();
 

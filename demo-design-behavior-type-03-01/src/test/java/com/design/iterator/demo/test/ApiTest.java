@@ -18,7 +18,7 @@ public class ApiTest {
 
     @Test
     public void test_iterator() {
-        GroupStructure groupStructure = new GroupStructure("1", "小傅哥");
+        GroupStructure groupStructure = new GroupStructure("1", "张三");
         groupStructure.add(new Employee("2", "花花", "二级部门"));
         groupStructure.add(new Employee("3", "豆包", "二级部门"));
         groupStructure.add(new Employee("4", "蹦蹦", "三级部门"));
